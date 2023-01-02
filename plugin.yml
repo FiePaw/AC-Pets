@@ -1,0 +1,19 @@
+name: AC-Pets
+main: brokiem\simplepets\SimplePets
+version: 1.0.0-AC
+api: 4.0.0
+authors: ["brokiem", "fernanACM", "FiePaw"]
+editor: "FiePaw"
+
+website: https://github.com/brokiem/SimplePets
+
+extensions:
+  Core: '>=8.0'
+
+permissions:
+  pets.acm:
+    default: op
+  pets.inv:
+    default: op
+  pets.montar:
+    default: op
